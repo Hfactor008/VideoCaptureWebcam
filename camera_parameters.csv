@@ -1,0 +1,12 @@
+Parameter	Value
+Frame rate	30
+Height of the frames in the video stream	480
+Width of the frames in the video stream	640
+Format of the Mat objects returned by retrieve()	-1
+Backend-specific value indicating the current capture mode	0
+Brightness of the image (only for cameras)	128
+Contrast of the image	128
+Saturation of the image 	128
+Hue of the image	-1
+Gain of the image 	91
+Exposure	-5
